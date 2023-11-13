@@ -1,13 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
-{
-	
-	
-		
-	int num1 = 0;
-	int num2 = 0;
+int ma
 		
 	while (1)
 	{
